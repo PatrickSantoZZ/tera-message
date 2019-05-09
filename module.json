@@ -7,7 +7,7 @@
     },
     "author": "ZC",
     "description": "为Proxy输出 彩色文本 提供便利",
-    "servers": ["https://raw.githubusercontent.com/zc149352394/tera-message/master/"],
-    "supportUrl": "https://github.com/zc149352394/tera-message/issues",
+    "servers": ["https://raw.githubusercontent.com/tera-mod/tera-message/master/"],
+    "supportUrl": "https://github.com/tera-mod/tera-message/issues",
     "version": "81.03"
 }
