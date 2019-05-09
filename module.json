@@ -1,0 +1,13 @@
+{
+    "disableAutoUpdate": false,
+    "name": "tera-message",
+    "options": {
+        "niceName": "tera-message",
+        "guiName": "tera-message"
+    },
+    "author": "ZC",
+    "description": "为Proxy输出 彩色文本 提供便利",
+    "servers": ["https://raw.githubusercontent.com/zc149352394/tera-message/master/"],
+    "supportUrl": "https://github.com/zc149352394/tera-message/issues",
+    "version": "81.03"
+}
