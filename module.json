@@ -2,8 +2,8 @@
     "disableAutoUpdate": false,
     "name": "tera-message",
     "options": {
-        "niceName": "tera-message",
-        "guiName": "tera-message"
+        "niceName": "TERA-Message",
+        "guiName": "TERA-Message"
     },
     "author": "ZC",
     "description": "为Proxy输出 彩色文本 提供便利",
