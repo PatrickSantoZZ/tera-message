@@ -1,7 +1,8 @@
 {
     "files": {
+        "README.md": "468899647caeec0cefc7092bc44db9a2759072f5c7c952ffafd46df0c46c96b3",
         "index.js": "7208145237773eaeee4aa313620c02cbebea02b9d3e32adf86f0a3a2c03476aa",
-        "module.json": "a6e9e5137a9cfa231d16860c1240194550a392c8b09e898458941f43a0103dd7"
+        "module.json": "433c02bbb648eba965749f63844b97dc97208301d1e161fa632e932d1c4d3597"
     },
     "defs": {
         "S_CHAT": 3,
